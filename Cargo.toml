@@ -1,0 +1,9 @@
+[package]
+name = "pavise"
+version = "0.0.1"
+authors = ["Oussama Danba <oussama.danba@pqshield.com>"]
+edition = "2018"
+description = "Placeholder in case PQShield wants to use this"
+license-file = "LICENSE.txt"
+
+[dependencies]
